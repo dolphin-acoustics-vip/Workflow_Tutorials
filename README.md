@@ -95,7 +95,7 @@ Next, got to your working directory (for which you wish a requirements file to b
 A "requirements.txt" file should now be created in your directory. Note that if one was there previously, it should be deleted (or renamed) beforehand to avoid issues.
 
 
-# Creating a virtual environment using virtualenv (Python-specific)
+# Creating a Virtual Environment using virtualenv (Python-specific)
 
 First, check that you have virtualenv installed:
 `which virtualenv`

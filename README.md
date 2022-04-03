@@ -2,10 +2,10 @@
 This is a repository meant to give some basic tips for students on this project to be set up a clean workflow for code (including things like git and virtual environments) 
 
 For installing git, first-time setup, and creating a git repository, see: https://git-scm.com/video/get-going
-For installing git, first-time setup, and creating a git repository, see: https://git-scm.com/video/get-going
 
 ## Cloning a repository
 Go to a directory in which you wish the repo to be cloned over, then run:
+
 `git clone https://github.com/dolphin-acoustics-vip/science-communication`
 
 ## Creating a new branch
@@ -18,7 +18,7 @@ We can check that the new branch is created by running:
 We should see a "main" branch (which you should be in) and the new "new_branch"
 
 Move over to the new_branch:
-git checkout new_branch
+`git checkout new_branch`
 
 ## Git add, commit and push
 We can now make changes in new_branch which do not affect the main branch.
@@ -33,7 +33,7 @@ or more generally (if there wereother files):
 `git add .`
 
 Next, we record these changes locally by committing the changes with a message (in this case "made changes to example_code.py")
-git commit -m "made changes to example_code.py"
+`git commit -m "made changes to example_code.py"`
 
 This command only commits changes that were added to the staging environment. So if, for example, you created another file, but did not stage it, it would not be committed.
 

@@ -65,6 +65,8 @@ Finally, we can again push these changes on the main branch to GitHub:
 Note: To avoid conflicts with other students, please do not push changes to the main branch of this repository. However, feel to use these commands on your own repositories, or to create your own branches of this repository.
 
 Additional resources that may be useful:
+
 https://www.youtube.com/watch?v=HkdAHXoRtos&t=413s
+
 https://www.w3schools.com/git/default.asp?remote=github
 https://git-scm.com/doc

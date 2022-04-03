@@ -7,7 +7,11 @@ For installing git, first-time setup, and creating a git repository, see: https:
 ## Cloning a repository
 Go to a directory in which you wish the repo to be cloned over, then run:
 
-`git clone https://github.com/dolphin-acoustics-vip/science-communication`
+`git clone <repo_url>`
+
+For this tutorial, we will use the example of cloning this repository:
+
+`git clone https://github.com/dolphin-acoustics-vip/Workflow_Tutorials`
 
 ## Creating a new branch
 Create a new branch called "new_branch":

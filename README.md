@@ -66,6 +66,8 @@ Note: To avoid conflicts with other students, please do not push changes to the 
 
 Additional resources that may be useful:
 
+https://git-scm.com/doc
+
 https://www.youtube.com/watch?v=HkdAHXoRtos&t=413s
 
 https://www.w3schools.com/git/default.asp?remote=github

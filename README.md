@@ -76,3 +76,20 @@ https://www.youtube.com/watch?v=HkdAHXoRtos&t=413s
 
 https://www.w3schools.com/git/default.asp?remote=github
 https://git-scm.com/doc
+
+# Creating a requirements.txt file (Python-specific)
+In order for others to easily run your code, it is good practice to create a file which lists its required dependecies. Such a file is typically named "requirements.txt". An example of a "requirements.txt" file can be found in this repository. It gives library names, and the exact version to be used.
+
+There are several ways this can be done (including manually), but one good way to do this is using the the pipreqs library (https://pypi.org/project/pipreqs/). This has a benefit over alternatives (like pip freeze - https://pip.pypa.io/en/stable/cli/pip_freeze/) in that it saves only the dependencies required for your specific code (as opposed to all dependencies in your environment).
+
+To install pipreqs, run:
+
+`pip install pipreqs` 
+
+in your terminal.
+
+Next, got to your working directory (for which you wish a requirements file to be created), and run:
+
+`pipreqs .`
+
+A "requirements.txt" file should now be created in your directory. Note that if one was there previously, it should be deleted (or renamed) beforehand to avoid issues.

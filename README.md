@@ -72,7 +72,7 @@ If others have pushed changes onto a repository after you made your clone of it,
 `git push origin main` (assuming in this case that you were in the `main` branch). 
 
 ## Final notes and additional resources
-Note: To avoid conflicts with other students, please **do not push changes to the main branch of this repository**. However, feel to use these commands on your own repositories, or to create your own branches of this repository.
+Note: To avoid conflicts with other students, please **do not push changes to the main branch of this repository**. However, feel free to use these commands on your own repositories, or to create your own branches of this repository.
 
 Additional resources that may be useful:
 

@@ -65,6 +65,12 @@ Finally, we can again push these changes on the main branch to GitHub:
 
 `git push origin main`
 
+
+## Keeping your branch up-to-date
+If others have psuhed changes onto a repository after you made your clone of it, you can get the most updated version of the repository by running:
+
+`git push origin main` (assuming in this case that you were in the `main` branch). 
+
 ## Final notes and additional resources
 Note: To avoid conflicts with other students, please **do not push changes to the main branch of this repository**. However, feel to use these commands on your own repositories, or to create your own branches of this repository.
 

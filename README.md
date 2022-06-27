@@ -67,7 +67,7 @@ Finally, we can again push these changes on the main branch to GitHub:
 
 
 ## Keeping your Branch Up-To-Date
-If others have psuhed changes onto a repository after you made your clone of it, you can get the most updated version of the repository by running:
+If others have pushed changes onto a repository after you made your clone of it, you can get the most updated version of the repository by running:
 
 `git push origin main` (assuming in this case that you were in the `main` branch). 
 

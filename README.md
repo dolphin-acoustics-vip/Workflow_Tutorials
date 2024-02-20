@@ -94,7 +94,7 @@ To install pipreqs, run:
 
 in your terminal.
 
-Next, got to your working directory (for which you wish a requirements file to be created), and run:
+Next, go to your working directory (for which you wish a requirements file to be created), and run:
 
 `pipreqs .`
 
